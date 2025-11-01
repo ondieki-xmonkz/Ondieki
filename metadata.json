@@ -1,0 +1,5 @@
+{
+  "name": "CodeMentor AI",
+  "description": "A web application that acts as a Senior Software Engineer to help with university studies, powered by the Gemini API.",
+  "requestFramePermissions": []
+}
